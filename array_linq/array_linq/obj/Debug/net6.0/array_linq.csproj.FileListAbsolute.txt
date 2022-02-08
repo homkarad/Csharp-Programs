@@ -1,0 +1,15 @@
+C:\Users\Chinmay\source\repos\array_linq\array_linq\bin\Debug\net6.0\array_linq.exe
+C:\Users\Chinmay\source\repos\array_linq\array_linq\bin\Debug\net6.0\array_linq.deps.json
+C:\Users\Chinmay\source\repos\array_linq\array_linq\bin\Debug\net6.0\array_linq.runtimeconfig.json
+C:\Users\Chinmay\source\repos\array_linq\array_linq\bin\Debug\net6.0\array_linq.dll
+C:\Users\Chinmay\source\repos\array_linq\array_linq\bin\Debug\net6.0\ref\array_linq.dll
+C:\Users\Chinmay\source\repos\array_linq\array_linq\bin\Debug\net6.0\array_linq.pdb
+C:\Users\Chinmay\source\repos\array_linq\array_linq\obj\Debug\net6.0\array_linq.csproj.AssemblyReference.cache
+C:\Users\Chinmay\source\repos\array_linq\array_linq\obj\Debug\net6.0\array_linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chinmay\source\repos\array_linq\array_linq\obj\Debug\net6.0\array_linq.AssemblyInfoInputs.cache
+C:\Users\Chinmay\source\repos\array_linq\array_linq\obj\Debug\net6.0\array_linq.AssemblyInfo.cs
+C:\Users\Chinmay\source\repos\array_linq\array_linq\obj\Debug\net6.0\array_linq.csproj.CoreCompileInputs.cache
+C:\Users\Chinmay\source\repos\array_linq\array_linq\obj\Debug\net6.0\array_linq.dll
+C:\Users\Chinmay\source\repos\array_linq\array_linq\obj\Debug\net6.0\ref\array_linq.dll
+C:\Users\Chinmay\source\repos\array_linq\array_linq\obj\Debug\net6.0\array_linq.pdb
+C:\Users\Chinmay\source\repos\array_linq\array_linq\obj\Debug\net6.0\array_linq.genruntimeconfig.cache

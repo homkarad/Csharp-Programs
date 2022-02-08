@@ -1,0 +1,15 @@
+C:\Users\Chinmay\source\repos\2D_array_for_loop\2D_array_for_loop\bin\Debug\net6.0\2D_array_for_loop.exe
+C:\Users\Chinmay\source\repos\2D_array_for_loop\2D_array_for_loop\bin\Debug\net6.0\2D_array_for_loop.deps.json
+C:\Users\Chinmay\source\repos\2D_array_for_loop\2D_array_for_loop\bin\Debug\net6.0\2D_array_for_loop.runtimeconfig.json
+C:\Users\Chinmay\source\repos\2D_array_for_loop\2D_array_for_loop\bin\Debug\net6.0\2D_array_for_loop.dll
+C:\Users\Chinmay\source\repos\2D_array_for_loop\2D_array_for_loop\bin\Debug\net6.0\ref\2D_array_for_loop.dll
+C:\Users\Chinmay\source\repos\2D_array_for_loop\2D_array_for_loop\bin\Debug\net6.0\2D_array_for_loop.pdb
+C:\Users\Chinmay\source\repos\2D_array_for_loop\2D_array_for_loop\obj\Debug\net6.0\2D_array_for_loop.csproj.AssemblyReference.cache
+C:\Users\Chinmay\source\repos\2D_array_for_loop\2D_array_for_loop\obj\Debug\net6.0\2D_array_for_loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chinmay\source\repos\2D_array_for_loop\2D_array_for_loop\obj\Debug\net6.0\2D_array_for_loop.AssemblyInfoInputs.cache
+C:\Users\Chinmay\source\repos\2D_array_for_loop\2D_array_for_loop\obj\Debug\net6.0\2D_array_for_loop.AssemblyInfo.cs
+C:\Users\Chinmay\source\repos\2D_array_for_loop\2D_array_for_loop\obj\Debug\net6.0\2D_array_for_loop.csproj.CoreCompileInputs.cache
+C:\Users\Chinmay\source\repos\2D_array_for_loop\2D_array_for_loop\obj\Debug\net6.0\2D_array_for_loop.dll
+C:\Users\Chinmay\source\repos\2D_array_for_loop\2D_array_for_loop\obj\Debug\net6.0\ref\2D_array_for_loop.dll
+C:\Users\Chinmay\source\repos\2D_array_for_loop\2D_array_for_loop\obj\Debug\net6.0\2D_array_for_loop.pdb
+C:\Users\Chinmay\source\repos\2D_array_for_loop\2D_array_for_loop\obj\Debug\net6.0\2D_array_for_loop.genruntimeconfig.cache

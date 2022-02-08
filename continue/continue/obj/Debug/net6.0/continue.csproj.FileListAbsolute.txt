@@ -1,0 +1,15 @@
+C:\Users\Chinmay\source\repos\continue\continue\bin\Debug\net6.0\continue.exe
+C:\Users\Chinmay\source\repos\continue\continue\bin\Debug\net6.0\continue.deps.json
+C:\Users\Chinmay\source\repos\continue\continue\bin\Debug\net6.0\continue.runtimeconfig.json
+C:\Users\Chinmay\source\repos\continue\continue\bin\Debug\net6.0\continue.dll
+C:\Users\Chinmay\source\repos\continue\continue\bin\Debug\net6.0\ref\continue.dll
+C:\Users\Chinmay\source\repos\continue\continue\bin\Debug\net6.0\continue.pdb
+C:\Users\Chinmay\source\repos\continue\continue\obj\Debug\net6.0\continue.csproj.AssemblyReference.cache
+C:\Users\Chinmay\source\repos\continue\continue\obj\Debug\net6.0\continue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chinmay\source\repos\continue\continue\obj\Debug\net6.0\continue.AssemblyInfoInputs.cache
+C:\Users\Chinmay\source\repos\continue\continue\obj\Debug\net6.0\continue.AssemblyInfo.cs
+C:\Users\Chinmay\source\repos\continue\continue\obj\Debug\net6.0\continue.csproj.CoreCompileInputs.cache
+C:\Users\Chinmay\source\repos\continue\continue\obj\Debug\net6.0\continue.dll
+C:\Users\Chinmay\source\repos\continue\continue\obj\Debug\net6.0\ref\continue.dll
+C:\Users\Chinmay\source\repos\continue\continue\obj\Debug\net6.0\continue.pdb
+C:\Users\Chinmay\source\repos\continue\continue\obj\Debug\net6.0\continue.genruntimeconfig.cache

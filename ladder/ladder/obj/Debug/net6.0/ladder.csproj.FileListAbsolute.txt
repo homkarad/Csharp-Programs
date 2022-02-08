@@ -1,0 +1,14 @@
+C:\Users\Chinmay\source\repos\ladder\ladder\bin\Debug\net6.0\ladder.exe
+C:\Users\Chinmay\source\repos\ladder\ladder\bin\Debug\net6.0\ladder.deps.json
+C:\Users\Chinmay\source\repos\ladder\ladder\bin\Debug\net6.0\ladder.runtimeconfig.json
+C:\Users\Chinmay\source\repos\ladder\ladder\bin\Debug\net6.0\ladder.dll
+C:\Users\Chinmay\source\repos\ladder\ladder\bin\Debug\net6.0\ref\ladder.dll
+C:\Users\Chinmay\source\repos\ladder\ladder\bin\Debug\net6.0\ladder.pdb
+C:\Users\Chinmay\source\repos\ladder\ladder\obj\Debug\net6.0\ladder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chinmay\source\repos\ladder\ladder\obj\Debug\net6.0\ladder.AssemblyInfoInputs.cache
+C:\Users\Chinmay\source\repos\ladder\ladder\obj\Debug\net6.0\ladder.AssemblyInfo.cs
+C:\Users\Chinmay\source\repos\ladder\ladder\obj\Debug\net6.0\ladder.csproj.CoreCompileInputs.cache
+C:\Users\Chinmay\source\repos\ladder\ladder\obj\Debug\net6.0\ladder.dll
+C:\Users\Chinmay\source\repos\ladder\ladder\obj\Debug\net6.0\ref\ladder.dll
+C:\Users\Chinmay\source\repos\ladder\ladder\obj\Debug\net6.0\ladder.pdb
+C:\Users\Chinmay\source\repos\ladder\ladder\obj\Debug\net6.0\ladder.genruntimeconfig.cache

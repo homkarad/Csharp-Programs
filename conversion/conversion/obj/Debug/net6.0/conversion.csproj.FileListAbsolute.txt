@@ -1,0 +1,15 @@
+C:\Users\Chinmay\source\repos\conversion\conversion\bin\Debug\net6.0\conversion.exe
+C:\Users\Chinmay\source\repos\conversion\conversion\bin\Debug\net6.0\conversion.deps.json
+C:\Users\Chinmay\source\repos\conversion\conversion\bin\Debug\net6.0\conversion.runtimeconfig.json
+C:\Users\Chinmay\source\repos\conversion\conversion\bin\Debug\net6.0\conversion.dll
+C:\Users\Chinmay\source\repos\conversion\conversion\bin\Debug\net6.0\ref\conversion.dll
+C:\Users\Chinmay\source\repos\conversion\conversion\bin\Debug\net6.0\conversion.pdb
+C:\Users\Chinmay\source\repos\conversion\conversion\obj\Debug\net6.0\conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chinmay\source\repos\conversion\conversion\obj\Debug\net6.0\conversion.AssemblyInfoInputs.cache
+C:\Users\Chinmay\source\repos\conversion\conversion\obj\Debug\net6.0\conversion.AssemblyInfo.cs
+C:\Users\Chinmay\source\repos\conversion\conversion\obj\Debug\net6.0\conversion.csproj.CoreCompileInputs.cache
+C:\Users\Chinmay\source\repos\conversion\conversion\obj\Debug\net6.0\conversion.dll
+C:\Users\Chinmay\source\repos\conversion\conversion\obj\Debug\net6.0\ref\conversion.dll
+C:\Users\Chinmay\source\repos\conversion\conversion\obj\Debug\net6.0\conversion.pdb
+C:\Users\Chinmay\source\repos\conversion\conversion\obj\Debug\net6.0\conversion.genruntimeconfig.cache
+C:\Users\Chinmay\source\repos\conversion\conversion\obj\Debug\net6.0\conversion.csproj.AssemblyReference.cache

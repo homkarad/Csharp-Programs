@@ -1,0 +1,14 @@
+C:\Users\Chinmay\source\repos\array_for_each\array_for_each\bin\Debug\net6.0\array_for_each.exe
+C:\Users\Chinmay\source\repos\array_for_each\array_for_each\bin\Debug\net6.0\array_for_each.deps.json
+C:\Users\Chinmay\source\repos\array_for_each\array_for_each\bin\Debug\net6.0\array_for_each.runtimeconfig.json
+C:\Users\Chinmay\source\repos\array_for_each\array_for_each\bin\Debug\net6.0\array_for_each.dll
+C:\Users\Chinmay\source\repos\array_for_each\array_for_each\bin\Debug\net6.0\ref\array_for_each.dll
+C:\Users\Chinmay\source\repos\array_for_each\array_for_each\bin\Debug\net6.0\array_for_each.pdb
+C:\Users\Chinmay\source\repos\array_for_each\array_for_each\obj\Debug\net6.0\array_for_each.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chinmay\source\repos\array_for_each\array_for_each\obj\Debug\net6.0\array_for_each.AssemblyInfoInputs.cache
+C:\Users\Chinmay\source\repos\array_for_each\array_for_each\obj\Debug\net6.0\array_for_each.AssemblyInfo.cs
+C:\Users\Chinmay\source\repos\array_for_each\array_for_each\obj\Debug\net6.0\array_for_each.csproj.CoreCompileInputs.cache
+C:\Users\Chinmay\source\repos\array_for_each\array_for_each\obj\Debug\net6.0\array_for_each.dll
+C:\Users\Chinmay\source\repos\array_for_each\array_for_each\obj\Debug\net6.0\ref\array_for_each.dll
+C:\Users\Chinmay\source\repos\array_for_each\array_for_each\obj\Debug\net6.0\array_for_each.pdb
+C:\Users\Chinmay\source\repos\array_for_each\array_for_each\obj\Debug\net6.0\array_for_each.genruntimeconfig.cache

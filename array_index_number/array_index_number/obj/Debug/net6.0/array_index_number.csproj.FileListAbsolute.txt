@@ -1,0 +1,14 @@
+C:\Users\Chinmay\source\repos\array_index_number\array_index_number\bin\Debug\net6.0\array_index_number.exe
+C:\Users\Chinmay\source\repos\array_index_number\array_index_number\bin\Debug\net6.0\array_index_number.deps.json
+C:\Users\Chinmay\source\repos\array_index_number\array_index_number\bin\Debug\net6.0\array_index_number.runtimeconfig.json
+C:\Users\Chinmay\source\repos\array_index_number\array_index_number\bin\Debug\net6.0\array_index_number.dll
+C:\Users\Chinmay\source\repos\array_index_number\array_index_number\bin\Debug\net6.0\ref\array_index_number.dll
+C:\Users\Chinmay\source\repos\array_index_number\array_index_number\bin\Debug\net6.0\array_index_number.pdb
+C:\Users\Chinmay\source\repos\array_index_number\array_index_number\obj\Debug\net6.0\array_index_number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chinmay\source\repos\array_index_number\array_index_number\obj\Debug\net6.0\array_index_number.AssemblyInfoInputs.cache
+C:\Users\Chinmay\source\repos\array_index_number\array_index_number\obj\Debug\net6.0\array_index_number.AssemblyInfo.cs
+C:\Users\Chinmay\source\repos\array_index_number\array_index_number\obj\Debug\net6.0\array_index_number.csproj.CoreCompileInputs.cache
+C:\Users\Chinmay\source\repos\array_index_number\array_index_number\obj\Debug\net6.0\array_index_number.dll
+C:\Users\Chinmay\source\repos\array_index_number\array_index_number\obj\Debug\net6.0\ref\array_index_number.dll
+C:\Users\Chinmay\source\repos\array_index_number\array_index_number\obj\Debug\net6.0\array_index_number.pdb
+C:\Users\Chinmay\source\repos\array_index_number\array_index_number\obj\Debug\net6.0\array_index_number.genruntimeconfig.cache

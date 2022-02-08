@@ -1,0 +1,14 @@
+C:\Users\Chinmay\source\repos\jagged_array\jagged_array\bin\Debug\net6.0\jagged_array.exe
+C:\Users\Chinmay\source\repos\jagged_array\jagged_array\bin\Debug\net6.0\jagged_array.deps.json
+C:\Users\Chinmay\source\repos\jagged_array\jagged_array\bin\Debug\net6.0\jagged_array.runtimeconfig.json
+C:\Users\Chinmay\source\repos\jagged_array\jagged_array\bin\Debug\net6.0\jagged_array.dll
+C:\Users\Chinmay\source\repos\jagged_array\jagged_array\bin\Debug\net6.0\ref\jagged_array.dll
+C:\Users\Chinmay\source\repos\jagged_array\jagged_array\bin\Debug\net6.0\jagged_array.pdb
+C:\Users\Chinmay\source\repos\jagged_array\jagged_array\obj\Debug\net6.0\jagged_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chinmay\source\repos\jagged_array\jagged_array\obj\Debug\net6.0\jagged_array.AssemblyInfoInputs.cache
+C:\Users\Chinmay\source\repos\jagged_array\jagged_array\obj\Debug\net6.0\jagged_array.AssemblyInfo.cs
+C:\Users\Chinmay\source\repos\jagged_array\jagged_array\obj\Debug\net6.0\jagged_array.csproj.CoreCompileInputs.cache
+C:\Users\Chinmay\source\repos\jagged_array\jagged_array\obj\Debug\net6.0\jagged_array.dll
+C:\Users\Chinmay\source\repos\jagged_array\jagged_array\obj\Debug\net6.0\ref\jagged_array.dll
+C:\Users\Chinmay\source\repos\jagged_array\jagged_array\obj\Debug\net6.0\jagged_array.pdb
+C:\Users\Chinmay\source\repos\jagged_array\jagged_array\obj\Debug\net6.0\jagged_array.genruntimeconfig.cache

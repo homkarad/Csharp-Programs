@@ -1,0 +1,14 @@
+C:\Users\Chinmay\source\repos\2D_Array\2D_Array\bin\Debug\net6.0\2D_Array.exe
+C:\Users\Chinmay\source\repos\2D_Array\2D_Array\bin\Debug\net6.0\2D_Array.deps.json
+C:\Users\Chinmay\source\repos\2D_Array\2D_Array\bin\Debug\net6.0\2D_Array.runtimeconfig.json
+C:\Users\Chinmay\source\repos\2D_Array\2D_Array\bin\Debug\net6.0\2D_Array.dll
+C:\Users\Chinmay\source\repos\2D_Array\2D_Array\bin\Debug\net6.0\ref\2D_Array.dll
+C:\Users\Chinmay\source\repos\2D_Array\2D_Array\bin\Debug\net6.0\2D_Array.pdb
+C:\Users\Chinmay\source\repos\2D_Array\2D_Array\obj\Debug\net6.0\2D_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chinmay\source\repos\2D_Array\2D_Array\obj\Debug\net6.0\2D_Array.AssemblyInfoInputs.cache
+C:\Users\Chinmay\source\repos\2D_Array\2D_Array\obj\Debug\net6.0\2D_Array.AssemblyInfo.cs
+C:\Users\Chinmay\source\repos\2D_Array\2D_Array\obj\Debug\net6.0\2D_Array.csproj.CoreCompileInputs.cache
+C:\Users\Chinmay\source\repos\2D_Array\2D_Array\obj\Debug\net6.0\2D_Array.dll
+C:\Users\Chinmay\source\repos\2D_Array\2D_Array\obj\Debug\net6.0\ref\2D_Array.dll
+C:\Users\Chinmay\source\repos\2D_Array\2D_Array\obj\Debug\net6.0\2D_Array.pdb
+C:\Users\Chinmay\source\repos\2D_Array\2D_Array\obj\Debug\net6.0\2D_Array.genruntimeconfig.cache

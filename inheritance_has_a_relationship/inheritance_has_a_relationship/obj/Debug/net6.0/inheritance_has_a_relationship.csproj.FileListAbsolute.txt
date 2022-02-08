@@ -1,0 +1,14 @@
+C:\Users\Chinmay\source\repos\inheritance_has_a_relationship\inheritance_has_a_relationship\bin\Debug\net6.0\inheritance_has_a_relationship.exe
+C:\Users\Chinmay\source\repos\inheritance_has_a_relationship\inheritance_has_a_relationship\bin\Debug\net6.0\inheritance_has_a_relationship.deps.json
+C:\Users\Chinmay\source\repos\inheritance_has_a_relationship\inheritance_has_a_relationship\bin\Debug\net6.0\inheritance_has_a_relationship.runtimeconfig.json
+C:\Users\Chinmay\source\repos\inheritance_has_a_relationship\inheritance_has_a_relationship\bin\Debug\net6.0\inheritance_has_a_relationship.dll
+C:\Users\Chinmay\source\repos\inheritance_has_a_relationship\inheritance_has_a_relationship\bin\Debug\net6.0\ref\inheritance_has_a_relationship.dll
+C:\Users\Chinmay\source\repos\inheritance_has_a_relationship\inheritance_has_a_relationship\bin\Debug\net6.0\inheritance_has_a_relationship.pdb
+C:\Users\Chinmay\source\repos\inheritance_has_a_relationship\inheritance_has_a_relationship\obj\Debug\net6.0\inheritance_has_a_relationship.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chinmay\source\repos\inheritance_has_a_relationship\inheritance_has_a_relationship\obj\Debug\net6.0\inheritance_has_a_relationship.AssemblyInfoInputs.cache
+C:\Users\Chinmay\source\repos\inheritance_has_a_relationship\inheritance_has_a_relationship\obj\Debug\net6.0\inheritance_has_a_relationship.AssemblyInfo.cs
+C:\Users\Chinmay\source\repos\inheritance_has_a_relationship\inheritance_has_a_relationship\obj\Debug\net6.0\inheritance_has_a_relationship.csproj.CoreCompileInputs.cache
+C:\Users\Chinmay\source\repos\inheritance_has_a_relationship\inheritance_has_a_relationship\obj\Debug\net6.0\inheritance_has_a_relationship.dll
+C:\Users\Chinmay\source\repos\inheritance_has_a_relationship\inheritance_has_a_relationship\obj\Debug\net6.0\ref\inheritance_has_a_relationship.dll
+C:\Users\Chinmay\source\repos\inheritance_has_a_relationship\inheritance_has_a_relationship\obj\Debug\net6.0\inheritance_has_a_relationship.pdb
+C:\Users\Chinmay\source\repos\inheritance_has_a_relationship\inheritance_has_a_relationship\obj\Debug\net6.0\inheritance_has_a_relationship.genruntimeconfig.cache

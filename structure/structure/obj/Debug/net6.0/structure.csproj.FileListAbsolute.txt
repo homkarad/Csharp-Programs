@@ -1,0 +1,15 @@
+C:\Users\Chinmay\source\repos\structure\structure\bin\Debug\net6.0\structure.exe
+C:\Users\Chinmay\source\repos\structure\structure\bin\Debug\net6.0\structure.deps.json
+C:\Users\Chinmay\source\repos\structure\structure\bin\Debug\net6.0\structure.runtimeconfig.json
+C:\Users\Chinmay\source\repos\structure\structure\bin\Debug\net6.0\structure.dll
+C:\Users\Chinmay\source\repos\structure\structure\bin\Debug\net6.0\ref\structure.dll
+C:\Users\Chinmay\source\repos\structure\structure\bin\Debug\net6.0\structure.pdb
+C:\Users\Chinmay\source\repos\structure\structure\obj\Debug\net6.0\structure.csproj.AssemblyReference.cache
+C:\Users\Chinmay\source\repos\structure\structure\obj\Debug\net6.0\structure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chinmay\source\repos\structure\structure\obj\Debug\net6.0\structure.AssemblyInfoInputs.cache
+C:\Users\Chinmay\source\repos\structure\structure\obj\Debug\net6.0\structure.AssemblyInfo.cs
+C:\Users\Chinmay\source\repos\structure\structure\obj\Debug\net6.0\structure.csproj.CoreCompileInputs.cache
+C:\Users\Chinmay\source\repos\structure\structure\obj\Debug\net6.0\structure.dll
+C:\Users\Chinmay\source\repos\structure\structure\obj\Debug\net6.0\ref\structure.dll
+C:\Users\Chinmay\source\repos\structure\structure\obj\Debug\net6.0\structure.pdb
+C:\Users\Chinmay\source\repos\structure\structure\obj\Debug\net6.0\structure.genruntimeconfig.cache

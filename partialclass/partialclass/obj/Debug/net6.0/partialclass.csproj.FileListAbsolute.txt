@@ -1,0 +1,5 @@
+C:\Users\Chinmay\source\repos\partialclass\partialclass\obj\Debug\net6.0\partialclass.csproj.AssemblyReference.cache
+C:\Users\Chinmay\source\repos\partialclass\partialclass\obj\Debug\net6.0\partialclass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chinmay\source\repos\partialclass\partialclass\obj\Debug\net6.0\partialclass.AssemblyInfoInputs.cache
+C:\Users\Chinmay\source\repos\partialclass\partialclass\obj\Debug\net6.0\partialclass.AssemblyInfo.cs
+C:\Users\Chinmay\source\repos\partialclass\partialclass\obj\Debug\net6.0\partialclass.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+C:\Users\Chinmay\source\repos\nestedwhileloop\nestedwhileloop\bin\Debug\net6.0\nestedwhileloop.exe
+C:\Users\Chinmay\source\repos\nestedwhileloop\nestedwhileloop\bin\Debug\net6.0\nestedwhileloop.deps.json
+C:\Users\Chinmay\source\repos\nestedwhileloop\nestedwhileloop\bin\Debug\net6.0\nestedwhileloop.runtimeconfig.json
+C:\Users\Chinmay\source\repos\nestedwhileloop\nestedwhileloop\bin\Debug\net6.0\nestedwhileloop.dll
+C:\Users\Chinmay\source\repos\nestedwhileloop\nestedwhileloop\bin\Debug\net6.0\ref\nestedwhileloop.dll
+C:\Users\Chinmay\source\repos\nestedwhileloop\nestedwhileloop\bin\Debug\net6.0\nestedwhileloop.pdb
+C:\Users\Chinmay\source\repos\nestedwhileloop\nestedwhileloop\obj\Debug\net6.0\nestedwhileloop.csproj.AssemblyReference.cache
+C:\Users\Chinmay\source\repos\nestedwhileloop\nestedwhileloop\obj\Debug\net6.0\nestedwhileloop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chinmay\source\repos\nestedwhileloop\nestedwhileloop\obj\Debug\net6.0\nestedwhileloop.AssemblyInfoInputs.cache
+C:\Users\Chinmay\source\repos\nestedwhileloop\nestedwhileloop\obj\Debug\net6.0\nestedwhileloop.AssemblyInfo.cs
+C:\Users\Chinmay\source\repos\nestedwhileloop\nestedwhileloop\obj\Debug\net6.0\nestedwhileloop.csproj.CoreCompileInputs.cache
+C:\Users\Chinmay\source\repos\nestedwhileloop\nestedwhileloop\obj\Debug\net6.0\nestedwhileloop.dll
+C:\Users\Chinmay\source\repos\nestedwhileloop\nestedwhileloop\obj\Debug\net6.0\ref\nestedwhileloop.dll
+C:\Users\Chinmay\source\repos\nestedwhileloop\nestedwhileloop\obj\Debug\net6.0\nestedwhileloop.pdb
+C:\Users\Chinmay\source\repos\nestedwhileloop\nestedwhileloop\obj\Debug\net6.0\nestedwhileloop.genruntimeconfig.cache

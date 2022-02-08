@@ -1,0 +1,14 @@
+C:\Users\Chinmay\source\repos\whileloop\whileloop\bin\Debug\net6.0\whileloop.exe
+C:\Users\Chinmay\source\repos\whileloop\whileloop\bin\Debug\net6.0\whileloop.deps.json
+C:\Users\Chinmay\source\repos\whileloop\whileloop\bin\Debug\net6.0\whileloop.runtimeconfig.json
+C:\Users\Chinmay\source\repos\whileloop\whileloop\bin\Debug\net6.0\whileloop.dll
+C:\Users\Chinmay\source\repos\whileloop\whileloop\bin\Debug\net6.0\ref\whileloop.dll
+C:\Users\Chinmay\source\repos\whileloop\whileloop\bin\Debug\net6.0\whileloop.pdb
+C:\Users\Chinmay\source\repos\whileloop\whileloop\obj\Debug\net6.0\whileloop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chinmay\source\repos\whileloop\whileloop\obj\Debug\net6.0\whileloop.AssemblyInfoInputs.cache
+C:\Users\Chinmay\source\repos\whileloop\whileloop\obj\Debug\net6.0\whileloop.AssemblyInfo.cs
+C:\Users\Chinmay\source\repos\whileloop\whileloop\obj\Debug\net6.0\whileloop.csproj.CoreCompileInputs.cache
+C:\Users\Chinmay\source\repos\whileloop\whileloop\obj\Debug\net6.0\whileloop.dll
+C:\Users\Chinmay\source\repos\whileloop\whileloop\obj\Debug\net6.0\ref\whileloop.dll
+C:\Users\Chinmay\source\repos\whileloop\whileloop\obj\Debug\net6.0\whileloop.pdb
+C:\Users\Chinmay\source\repos\whileloop\whileloop\obj\Debug\net6.0\whileloop.genruntimeconfig.cache

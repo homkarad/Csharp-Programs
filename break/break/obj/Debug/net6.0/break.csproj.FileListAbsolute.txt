@@ -1,0 +1,14 @@
+C:\Users\Chinmay\source\repos\break\break\bin\Debug\net6.0\break.exe
+C:\Users\Chinmay\source\repos\break\break\bin\Debug\net6.0\break.deps.json
+C:\Users\Chinmay\source\repos\break\break\bin\Debug\net6.0\break.runtimeconfig.json
+C:\Users\Chinmay\source\repos\break\break\bin\Debug\net6.0\break.dll
+C:\Users\Chinmay\source\repos\break\break\bin\Debug\net6.0\ref\break.dll
+C:\Users\Chinmay\source\repos\break\break\bin\Debug\net6.0\break.pdb
+C:\Users\Chinmay\source\repos\break\break\obj\Debug\net6.0\break.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chinmay\source\repos\break\break\obj\Debug\net6.0\break.AssemblyInfoInputs.cache
+C:\Users\Chinmay\source\repos\break\break\obj\Debug\net6.0\break.AssemblyInfo.cs
+C:\Users\Chinmay\source\repos\break\break\obj\Debug\net6.0\break.csproj.CoreCompileInputs.cache
+C:\Users\Chinmay\source\repos\break\break\obj\Debug\net6.0\break.dll
+C:\Users\Chinmay\source\repos\break\break\obj\Debug\net6.0\ref\break.dll
+C:\Users\Chinmay\source\repos\break\break\obj\Debug\net6.0\break.pdb
+C:\Users\Chinmay\source\repos\break\break\obj\Debug\net6.0\break.genruntimeconfig.cache

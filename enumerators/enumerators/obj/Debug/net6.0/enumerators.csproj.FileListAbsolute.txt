@@ -1,0 +1,14 @@
+C:\Users\Chinmay\source\repos\enumerators\enumerators\bin\Debug\net6.0\enumerators.exe
+C:\Users\Chinmay\source\repos\enumerators\enumerators\bin\Debug\net6.0\enumerators.deps.json
+C:\Users\Chinmay\source\repos\enumerators\enumerators\bin\Debug\net6.0\enumerators.runtimeconfig.json
+C:\Users\Chinmay\source\repos\enumerators\enumerators\bin\Debug\net6.0\enumerators.dll
+C:\Users\Chinmay\source\repos\enumerators\enumerators\bin\Debug\net6.0\ref\enumerators.dll
+C:\Users\Chinmay\source\repos\enumerators\enumerators\bin\Debug\net6.0\enumerators.pdb
+C:\Users\Chinmay\source\repos\enumerators\enumerators\obj\Debug\net6.0\enumerators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chinmay\source\repos\enumerators\enumerators\obj\Debug\net6.0\enumerators.AssemblyInfoInputs.cache
+C:\Users\Chinmay\source\repos\enumerators\enumerators\obj\Debug\net6.0\enumerators.AssemblyInfo.cs
+C:\Users\Chinmay\source\repos\enumerators\enumerators\obj\Debug\net6.0\enumerators.csproj.CoreCompileInputs.cache
+C:\Users\Chinmay\source\repos\enumerators\enumerators\obj\Debug\net6.0\enumerators.dll
+C:\Users\Chinmay\source\repos\enumerators\enumerators\obj\Debug\net6.0\ref\enumerators.dll
+C:\Users\Chinmay\source\repos\enumerators\enumerators\obj\Debug\net6.0\enumerators.pdb
+C:\Users\Chinmay\source\repos\enumerators\enumerators\obj\Debug\net6.0\enumerators.genruntimeconfig.cache

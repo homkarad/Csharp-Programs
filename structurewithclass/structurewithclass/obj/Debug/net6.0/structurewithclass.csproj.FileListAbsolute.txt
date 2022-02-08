@@ -1,0 +1,15 @@
+C:\Users\Chinmay\source\repos\structurewithclass\structurewithclass\bin\Debug\net6.0\structurewithclass.exe
+C:\Users\Chinmay\source\repos\structurewithclass\structurewithclass\bin\Debug\net6.0\structurewithclass.deps.json
+C:\Users\Chinmay\source\repos\structurewithclass\structurewithclass\bin\Debug\net6.0\structurewithclass.runtimeconfig.json
+C:\Users\Chinmay\source\repos\structurewithclass\structurewithclass\bin\Debug\net6.0\structurewithclass.dll
+C:\Users\Chinmay\source\repos\structurewithclass\structurewithclass\bin\Debug\net6.0\ref\structurewithclass.dll
+C:\Users\Chinmay\source\repos\structurewithclass\structurewithclass\bin\Debug\net6.0\structurewithclass.pdb
+C:\Users\Chinmay\source\repos\structurewithclass\structurewithclass\obj\Debug\net6.0\structurewithclass.csproj.AssemblyReference.cache
+C:\Users\Chinmay\source\repos\structurewithclass\structurewithclass\obj\Debug\net6.0\structurewithclass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chinmay\source\repos\structurewithclass\structurewithclass\obj\Debug\net6.0\structurewithclass.AssemblyInfoInputs.cache
+C:\Users\Chinmay\source\repos\structurewithclass\structurewithclass\obj\Debug\net6.0\structurewithclass.AssemblyInfo.cs
+C:\Users\Chinmay\source\repos\structurewithclass\structurewithclass\obj\Debug\net6.0\structurewithclass.csproj.CoreCompileInputs.cache
+C:\Users\Chinmay\source\repos\structurewithclass\structurewithclass\obj\Debug\net6.0\structurewithclass.dll
+C:\Users\Chinmay\source\repos\structurewithclass\structurewithclass\obj\Debug\net6.0\ref\structurewithclass.dll
+C:\Users\Chinmay\source\repos\structurewithclass\structurewithclass\obj\Debug\net6.0\structurewithclass.pdb
+C:\Users\Chinmay\source\repos\structurewithclass\structurewithclass\obj\Debug\net6.0\structurewithclass.genruntimeconfig.cache

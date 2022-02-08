@@ -1,0 +1,15 @@
+C:\Users\Chinmay\source\repos\multilevel_inheritance\multilevel_inheritance\bin\Debug\net6.0\multilevel_inheritance.exe
+C:\Users\Chinmay\source\repos\multilevel_inheritance\multilevel_inheritance\bin\Debug\net6.0\multilevel_inheritance.deps.json
+C:\Users\Chinmay\source\repos\multilevel_inheritance\multilevel_inheritance\bin\Debug\net6.0\multilevel_inheritance.runtimeconfig.json
+C:\Users\Chinmay\source\repos\multilevel_inheritance\multilevel_inheritance\bin\Debug\net6.0\multilevel_inheritance.dll
+C:\Users\Chinmay\source\repos\multilevel_inheritance\multilevel_inheritance\bin\Debug\net6.0\ref\multilevel_inheritance.dll
+C:\Users\Chinmay\source\repos\multilevel_inheritance\multilevel_inheritance\bin\Debug\net6.0\multilevel_inheritance.pdb
+C:\Users\Chinmay\source\repos\multilevel_inheritance\multilevel_inheritance\obj\Debug\net6.0\multilevel_inheritance.csproj.AssemblyReference.cache
+C:\Users\Chinmay\source\repos\multilevel_inheritance\multilevel_inheritance\obj\Debug\net6.0\multilevel_inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chinmay\source\repos\multilevel_inheritance\multilevel_inheritance\obj\Debug\net6.0\multilevel_inheritance.AssemblyInfoInputs.cache
+C:\Users\Chinmay\source\repos\multilevel_inheritance\multilevel_inheritance\obj\Debug\net6.0\multilevel_inheritance.AssemblyInfo.cs
+C:\Users\Chinmay\source\repos\multilevel_inheritance\multilevel_inheritance\obj\Debug\net6.0\multilevel_inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Chinmay\source\repos\multilevel_inheritance\multilevel_inheritance\obj\Debug\net6.0\multilevel_inheritance.dll
+C:\Users\Chinmay\source\repos\multilevel_inheritance\multilevel_inheritance\obj\Debug\net6.0\ref\multilevel_inheritance.dll
+C:\Users\Chinmay\source\repos\multilevel_inheritance\multilevel_inheritance\obj\Debug\net6.0\multilevel_inheritance.pdb
+C:\Users\Chinmay\source\repos\multilevel_inheritance\multilevel_inheritance\obj\Debug\net6.0\multilevel_inheritance.genruntimeconfig.cache
